@@ -40,7 +40,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1.  Clone the repo
     ```sh
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/Delaksan-Sritharan/employee-management-react-springboot.git
     ```
 2.  Navigate into the project directory
     ```sh
