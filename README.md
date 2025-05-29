@@ -12,7 +12,7 @@ This project aims to provide a user-friendly interface for Browse movie informat
 ## Website
 
 <img width="1440" alt="Screenshot 2025-05-29 at 7 10 59 PM" src="https://github.com/user-attachments/assets/9a3a5515-9995-4e7b-b938-9a95534c8087" />
----
+
 <img width="1440" alt="Screenshot 2025-05-29 at 7 11 26 PM" src="https://github.com/user-attachments/assets/e7c0aaf5-f7f6-4d2f-bd8d-1ef8cce9a7b0" />
 
 ---
